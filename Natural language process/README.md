@@ -2,7 +2,7 @@
 
 
 
-## Natural Language Processing with Disaster Tweets
+## Natural Language Processing with Disaster Tweets (Kaggle)
 
 Learderboard: get score 0.80815
 
