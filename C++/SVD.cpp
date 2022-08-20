@@ -1,8 +1,6 @@
 #include<opencv2/opencv.hpp>
 #include<iostream>
 
-//g++ SVD.cpp -lopencv_core455 -lopencv_highgui455 -lopencv_imgproc455 -lopencv_imgcodecs455 -I D:\opencv\opencv\include -o SVD.exe
-
 
 void maxloc(cv::Mat A , float *max, cv::Point *max_loc){
     double temp = 0.0;
