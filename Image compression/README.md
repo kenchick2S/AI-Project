@@ -3,9 +3,9 @@
 
 ## 原圖
 
-![image](https://github.com/kenchick2S/AI-Project/blob/main/C%2B%2B/origin.png)
+![image](https://github.com/kenchick2S/AI-Project/blob/main/Image%20compression/origin.png)
 
 經過 SVD 壓縮後，
 
 ## 壓縮
-![image](https://github.com/kenchick2S/AI-Project/blob/main/C%2B%2B/compressed.png)
+![image](https://github.com/kenchick2S/AI-Project/blob/main/Image%20compression/compressed.png)
